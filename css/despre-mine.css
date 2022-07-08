@@ -1,0 +1,110 @@
+.middle-part {
+background-color:#EFEFEF;
+}
+
+/* navbar */
+.container-fluid {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* navbar */
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.blog {
+  color: black;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #D1D1D1;
+  color: black;
+}
+
+.profile-picture {
+  height: 350px;
+  width: 350px;
+  border-radius: 50%;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: 150px;
+  margin-top: 60px;
+  box-shadow: 12px 0 #78b8dd, 24px 0 #aed6e9, 36px 0 #d0eef1;
+  box-sizing: border-box;
+}
+
+.profile-text {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+/* design */
+
+.numele-meu {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 20px;
+  color: #1d6eb1;
+}
+
+.subtitle {
+  color: gray;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.text {
+  font-family: Libre Baskerville,Libre-Baskerville-Fallback,serif;
+  line-height: 1.6;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.drepturi {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+/* buttons */
+
+.YouTube-link{
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
